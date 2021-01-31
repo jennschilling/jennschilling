@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Jenn Schilling (she/her/hers). I do data visualization and analysis. You can find out more about me on my [website](https://jennschilling.me).
+
 <!--
 **jennschilling/jennschilling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
