@@ -1,6 +1,15 @@
-### Hi there 👋
+### Hello! 👋
 
-I'm Jenn Schilling (she/her/hers). I do data visualization and analysis. You can find out more about me on my [website](https://jennschilling.me).
+I'm Jenn Schilling (she/her/hers). 
+
+- :bar_chart: I do data visualization and analysis. 
+- :books: I also teach.
+- :paw_prints: I have a dog and a cat.
+- :cactus: I currently live in Arizona.
+- :heart: I love teaching, R, data viz, and tea.
+- :womans_clothes: I like to knit and sew clothes.
+
+You can find out more about me on my [website](https://jennschilling.me).
 
 <!--
 **jennschilling/jennschilling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
