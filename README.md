@@ -5,9 +5,7 @@ I'm Jenn Schilling (she/her/hers).
 - :bar_chart: I do data visualization and analysis. 
 - :books: I teach.
 - :paw_prints: I have a dog and a cat.
-- :cactus: I currently live in Arizona.
-- :heart: I love teaching, learning, R, data viz, and tea.
-- :womans_clothes: I like to knit and sew clothes.
+- :heart: I love teaching, learning, R, data viz, reading, sewing, knitting, and tea.
 
 You can find out more about me on my [website](https://jennschilling.me).
 
@@ -24,4 +22,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+- :cactus: I currently live in Arizona.
+- :womans_clothes: I like to knit and sew clothes.
 -->
