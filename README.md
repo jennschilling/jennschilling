@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm Jenn Schilling (she/her/hers). 
+I'm Jenn (she/her/hers). 
 
 - :bar_chart: I do data visualization and analysis. 
 - :books: I teach.
