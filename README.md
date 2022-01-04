@@ -2,8 +2,7 @@
 
 I'm Jenn (she/her/hers). 
 
-- :bar_chart: I do and teach data visualization and analysis. 
-- :heart: I love teaching, learning, R, data viz, reading, sewing, knitting, and tea.
+I love teaching, learning, R, data viz, reading, sewing, knitting, and tea.
 
 You can find out more about me on my [website](https://jennschilling.me).
 
